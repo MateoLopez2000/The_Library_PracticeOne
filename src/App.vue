@@ -10,7 +10,7 @@
     </select>
     <br>
     <input v-model="name" placeholder="Escriba el nombre" />
-    <table id="table" border = "3" >
+    <table id="table" border = "1" >
       <thead>
         <tr>
           <th>Code</th>
@@ -64,10 +64,6 @@ export default {
 
   
 }
-/*
-
-*/
-
 </script>
 
 <style>
